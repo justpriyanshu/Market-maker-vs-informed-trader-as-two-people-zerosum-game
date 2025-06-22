@@ -1,0 +1,3 @@
+Player I strategy: 0.0088785 0.516822 0.474299 
+Player II strategy: 0.135514 0.556075 0.308411 
+Value of the game: 0.809813
